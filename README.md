@@ -1,2 +1,6 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[College Grads' Job Search Experience Article](https://www.nytimes.com/2025/08/10/technology/coding-ai-jobs-students.html)
+
+This article highlights current computer science graduates' experiences with the job search. Many computer science students went into the major with the promise of a well-compensated job in software engineering, but with the rise of AI, have now faced struggles with the competitive job market. The article highlights several students' experience with applying to many job applications but still unable to receive an offer. \
+\
+I thought this article was relevant because most of us are students looking to find a job in technology, and have had a similar experiece with the job search. In my experience, companies have increased the intensity of the application process, either through the difficulty of technical interviews/screenings, or through the number of interview rounds they conduct. The article ends with a testimony of a student pursuing a position in tech sales instead. I believe this is one advantage of the computer science degree - that the quantitative and analytical skills we develop can be easily applied to many roles, not just the typical route of software engineering. It would be interesting to see how improvements in technology will continue to impact the job market. 
